@@ -1,0 +1,21 @@
+{
+  "name": "string-utils",
+  "version": "1.0.0",
+  "description": "A simple library for string manipulation",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["string", "utilities", "npm-package", "javascript"],
+  "author": "Mahmud R. Farhan",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mahmud-r-farhan/string-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mahmud-r-farhan/string-utils/issues"
+  },
+  "homepage": "https://github.com/mahmud-r-farhan/string-utils#readme"
+}
