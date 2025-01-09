@@ -1,6 +1,6 @@
 {
-  "name": "string-utils",
-  "version": "1.0.0",
+  "name": "@conflow/string-utils",
+  "version": "1.0.1",
   "description": "A simple library for string manipulation",
   "main": "index.js",
   "type": "commonjs",

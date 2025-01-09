@@ -11,7 +11,8 @@ A simple library for string manipulation. This package offers utility functions 
 
 Install the package using npm:
 ```bash
-npm install @conflow/string-utils
+
+npm i @conflow/string-utils
 
 ```
 
@@ -41,3 +42,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 -   [GitHub Repository](https://github.com/mahmud-r-farhan/string-utils)
 -   [npm Package](https://www.npmjs.com/package/@conflow/string-utils)
+
+[![npm version](https://img.shields.io/npm/v/string-utils.svg)](https://www.npmjs.com/package/@conflow/string-utils)
